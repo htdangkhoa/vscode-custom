@@ -15,6 +15,10 @@
   ```
 - Press <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (for Mac) or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (for Windows or Linux), select `Reload Custom CSS and JS`
 
+## Images
+
+![image](https://github.com/user-attachments/assets/8831a5e4-6203-445b-8f08-c47507f009e7)
+
 ## Ref:
 
 https://rudreshoza98.hashnode.dev/unlocking-power-of-vscode-for-your-workflow
