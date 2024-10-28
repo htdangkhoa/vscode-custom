@@ -1,5 +1,9 @@
 # vscode-custom
 
+## Prerequisites
+
+- Extension: [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+
 ## Usage
 
 - Press <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (for Mac) or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (for Windows or Linux), select `Open User Settings (JSON)`
